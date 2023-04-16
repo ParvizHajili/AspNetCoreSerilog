@@ -1,0 +1,8 @@
+2023-04-16 20:45:22.532 +04:00 [ERR] This is test exception.
+2023-04-16 20:46:04.581 +04:00 [ERR] Attempted to divide by zero.
+2023-04-16 20:49:52.289 +04:00 [Error] This is test exception.
+2023-04-16 20:49:53.401 +04:00 [Error] This is test exception.
+2023-04-16 20:50:00.114 +04:00 [Information] New Product added!!!
+2023-04-16 20:50:01.159 +04:00 [Information] New Product added!!!
+2023-04-16 20:50:01.695 +04:00 [Information] New Product added!!!
+System.Func`2[System.Double,System.TimeSpan] [Critical] System.Func`3[System.Object,System.Object,System.Boolean]EntitizeSystem.Func`3[System.Object,System.Object,System.Boolean]System.Func`2[System.Double,System.TimeSpan] [Critical] System.Func`3[System.Object,System.Object,System.Boolean]EntitizeSystem.Func`3[System.Object,System.Object,System.Boolean]System.Func`2[System.Double,System.TimeSpan] [Critical] System.Func`3[System.Object,System.Object,System.Boolean]EntitizeSystem.Func`3[System.Object,System.Object,System.Boolean]System.Func`2[System.Double,System.TimeSpan] [Critical] System.Func`3[System.Object,System.Object,System.Boolean]EntitizeSystem.Func`3[System.Object,System.Object,System.Boolean]
